@@ -8,6 +8,8 @@ Project Objective:
 4. Implement basic MVC pattern.
 
 Task1: Create an index.jsp page
+
 Task2: Practice with servlet programming, web scraping, API's and MVC
+
 Task3: Create web application that can be used as an in-class survey tracker by allowing users to select an answer and submit it.
 
