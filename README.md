@@ -10,5 +10,5 @@ Project Objective:
 Tasks: 
 1. Create an index.jsp page
 2. Practice with servlet programming, web scraping, API's and MVC
-3. Create web application that can be used as an in-class survey tracker by allowing users to select an answer and submit it. Ensure MVC design pricinples are utilized. 
+3. Create web application that can be used as an in-class survey tracker by allowing users to select an answer and submit it. Ensure MVC architecture is utilized. 
 
