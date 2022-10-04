@@ -19,7 +19,7 @@ Topics/Skills covered:
 - Pulling data from API
 - Servlet programming
 
-Demonstration of completed tasks.
+Demonstration of completed tasks:
 
 Task 1:
 Index.jsp page
