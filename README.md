@@ -2,9 +2,9 @@
 **Project 1 for CMU course 95-702 (Distributed Systems)Spring 2022**
 
 **Project Objective:**
-1. Familiarize with IntelliJ and TomEE
+1. Familiarize with IntelliJ and TomEE.
 2. Create two small web applications using Servlets and Java Server Pages.
-3. Understand / modify given web scraping and API processing code.
+3. Understand web scraping and API processing code.
 4. Implement basic MVC pattern.
 
 **Tasks:**
