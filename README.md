@@ -8,7 +8,7 @@
 4. Implement basic MVC pattern.
 
 **Tasks:**
-1. Create an index.jsp page
+1. Create two Java Server Pages.
 2. Practice with servlet programming, web scraping, API's and MVC
 3. Create web application that can be used as an in-class survey tracker by allowing users to select an answer and submit it. Ensure MVC architecture is utilized. 
 
@@ -18,14 +18,15 @@
 - Web scraping
 - Pulling data from API
 - Servlet programming
+- JSPs
 
 **Demonstration of completed tasks:**
 
 **Task 1:**
-Index.jsp page
+Created the initial landing page, called Index.jsp
 ![p1_index](https://user-images.githubusercontent.com/114946651/193722146-48b9638d-8367-4303-a2db-d92c962c5056.png)
 
-Results.jsp page
+Created the Results.jsp page that is shown after a value is added to be hashed
 ![Picture1](https://user-images.githubusercontent.com/114946651/193722224-6bcf377a-260a-4cb6-83af-d1da36f30bd6.png)
 
 **Task 2:**
