@@ -29,3 +29,9 @@ Index has dropdown menu to select a dog breed
 Results page uses web scraping to get breed information and pulls image from an API
 ![task22](https://user-images.githubusercontent.com/114946651/193723275-e5505d2a-8fc9-4138-8d04-a4dce05e91f5.png)
 
+Task 3:
+Index page allows users to submit answer to a survey question
+![Task3](https://user-images.githubusercontent.com/114946651/193723851-82d8fb55-74fe-4952-b0e2-eacbcc466e68.png)
+
+All answers are stored in results 
+![Task3a](https://user-images.githubusercontent.com/114946651/193723972-eadd9056-9f19-454f-9b02-e3691b57f7fe.png)
