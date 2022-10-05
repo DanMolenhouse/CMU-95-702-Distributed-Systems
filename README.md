@@ -1,5 +1,5 @@
-# CMU-95-702-Distributed-Systems-Project1
-**Project 1 for CMU course 95-702 (Distributed Systems)Spring 2022**
+# Distributed-Systems-Project1
+**Project 1 - Distributed Systems**
 
 **Project Objective:**
 1. Familiarize with IntelliJ and TomEE.
