@@ -1,4 +1,4 @@
-# Distributed-Systems-Project1
+# Distributed-Systems-Project1-ServletProgramming
 **Project 1 - Distributed Systems**
 
 **Project Objective:**
